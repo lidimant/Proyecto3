@@ -1,4 +1,4 @@
-##Proyecto 3 – Análisis de Datos de Intrusiones en Red - archivo data_analisis.ipynb
+##Proyecto 3 – Análisis de Datos de Intrusiones en Red - archivo data_analisis.ipynb##
 Descripción del dataset
 
 Este proyecto realiza un análisis exploratorio de un conjunto de datos de tráfico de red utilizado para la detección de intrusiones. El dataset contiene información sobre flujos de red capturados en diferentes condiciones de operación, incluyendo tráfico normal (benigno) y tráfico asociado a distintos tipos de ataques.
